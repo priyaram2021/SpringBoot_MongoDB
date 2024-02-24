@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.training.spring.SpringCurdOperation.SpringCurdOperationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.274 s <<< FAILURE! - in com.training.spring.SpringCurdOperation.SpringCurdOperationApplicationTests
+com.training.spring.SpringCurdOperation.SpringCurdOperationApplicationTests  Time elapsed: 0.273 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "found" is null
+
